@@ -10,3 +10,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/username/project.git 
 git push -u origin master
 
+git log
