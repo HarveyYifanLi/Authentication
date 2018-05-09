@@ -10,3 +10,11 @@ git commit -m "first commit"
 git remote add origin https://github.com/username/project.git 
 git push -u origin master
 
+
+After changes:
+
+git status
+
+git add readme.txt   (This step places the new file readme.txt to the staging area)
+
+git commit -m "Add a new readme.txt from cloud9 staging Area"
