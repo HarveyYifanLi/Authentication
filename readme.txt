@@ -25,7 +25,7 @@ git pull    (This integrate all the remote changes before pushing to the "GitHub
 git push -u origin master
 
 
-For example below is what I did to commit the latest code changes related to refactoring app.js, to GitHub Repository:
+### For example below is what I did to commit the latest code changes related to refactoring app.js, to GitHub Repository:
 
 git status
 
