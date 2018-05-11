@@ -27,7 +27,6 @@ passport.serializeUser(User.serializeUser());
 passport.deserializeUser(User.deserializeUser());
 
 
-
 // Home Page route
 app.get("/", function(req,res){
     res.render("home");
